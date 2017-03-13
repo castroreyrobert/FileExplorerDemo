@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/castroreyrobert/AndroidProjectsDemo/Fileexplorer/app/build/intermediates/res/merged/debug/layout/file_view.xml",
+        "source": "/home/castroreyrobert/AndroidProjectsDemo/Fileexplorer/app/src/main/res/layout/file_view.xml"
+    },
+    {
+        "merged": "/home/castroreyrobert/AndroidProjectsDemo/Fileexplorer/app/build/intermediates/res/merged/debug/layout/activity_fileexplorer.xml",
+        "source": "/home/castroreyrobert/AndroidProjectsDemo/Fileexplorer/app/src/main/res/layout/activity_fileexplorer.xml"
+    }
+]
